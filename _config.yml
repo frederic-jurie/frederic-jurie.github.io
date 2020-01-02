@@ -32,7 +32,7 @@ github_username:  frederic-jurie
 
 # Build settings
 #theme: jekyll-theme-minimal
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 #plugins:
 #  - jekyll-feed
 
