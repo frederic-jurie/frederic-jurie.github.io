@@ -32,9 +32,9 @@ github_username:  frederic-jurie
 
 # Build settings
 #theme: jekyll-theme-minimal
-theme: minimal
-plugins:
-  - jekyll-feed
+theme: minima
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
