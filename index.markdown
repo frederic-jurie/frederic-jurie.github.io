@@ -8,8 +8,14 @@ Frederic Jurie is a professor at the French University of Caen Normandie (Comput
 
 His research interests lie predominantly in the area of Computer Vision, particularly with respect to object recognition, image classification and object detection.
 
-# Publications
+## Publication lists
 
-* On Google scholar [(link)](https://scholar.google.com/citations?hl=fr&user=Gb5a92sAAAAJ&view_op=list_works&sortby=pubdate) 
-* On DBLP [(link)](https://dblp.org/pers/hd/j/Jurie:Fr=eacute=d=eacute=ric)
-* On Hal [(link)](https://hal.archives-ouvertes.fr/search/index/?q=%2A&authIdHal_s=frederic-jurie&sort=producedDate_tdate+desc)
+* See publication list in Google Scholar [(link)](https://scholar.google.com/citations?hl=fr&user=Gb5a92sAAAAJ&view_op=list_works&sortby=pubdate) 
+* See publication list in DBLP [(link)](https://dblp.org/pers/hd/j/Jurie:Fr=eacute=d=eacute=ric)
+* See publication list in Hal [(link)](https://hal.archives-ouvertes.fr/search/index/?q=%2A&authIdHal_s=frederic-jurie&sort=producedDate_tdate+desc)
+
+## Current Ph.D. Students
+
+## Former Current Ph.D. Students
+
+## Selected Publications
