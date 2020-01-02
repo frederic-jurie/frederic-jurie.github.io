@@ -10,6 +10,6 @@ His research interests lie predominantly in the area of Computer Vision, particu
 
 # Publications
 
-* On Google scholar [link](https://scholar.google.com/citations?hl=fr&user=Gb5a92sAAAAJ&view_op=list_works&sortby=pubdate) 
-* On DBLP [link](https://dblp.org/pers/hd/j/Jurie:Fr=eacute=d=eacute=ric)
-* On Hal [link](https://hal.archives-ouvertes.fr/search/index/?q=%2A&authIdHal_s=frederic-jurie&sort=producedDate_tdate+desc)
+* On Google scholar [(link)](https://scholar.google.com/citations?hl=fr&user=Gb5a92sAAAAJ&view_op=list_works&sortby=pubdate) 
+* On DBLP [(link)](https://dblp.org/pers/hd/j/Jurie:Fr=eacute=d=eacute=ric)
+* On Hal [(link)](https://hal.archives-ouvertes.fr/search/index/?q=%2A&authIdHal_s=frederic-jurie&sort=producedDate_tdate+desc)
