@@ -1,5 +1,3 @@
-H
-
 ---
 layout: page
 title: About
