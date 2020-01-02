@@ -19,7 +19,7 @@ Publication lists.
 * In HAL : [list](https://hal.archives-ouvertes.fr/search/index/?q=frederic+jurie&docType_s=ART+OR+COMM+OR+OUV+OR+COUV+OR+DOUV+OR+OTHER+OR+UNDEFINED+OR+REPORT+OR+THESE+OR+HDR+OR+LECTURE&sort=producedDate_tdate+desc)
 * In ResearchGate [list](https://www.researchgate.net/profile/Frederic_Jurie/research)
 
-* <sub>Disclaimer: Please note that these lists are automatically generated and may contain errors. This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All person copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. </sub>* 
+<sub>*Disclaimer: Please note that these lists are automatically generated and may contain errors. This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All person copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder*</sub> 
 
 
 ```
