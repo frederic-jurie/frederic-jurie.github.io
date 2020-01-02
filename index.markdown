@@ -4,4 +4,6 @@
 
 layout: home
 ---
-test
+Frederic Jurie is a professor at the French University of Caen Normandie (Computer Science Department) member of GREYC-UMR6072 Research Lab (affiliated with Normandie Univ, UNICAEN, ENSICAEN, CNRS).
+
+His research interests lie predominantly in the area of Computer Vision, particularly with respect to object recognition, image classification and object detection.
