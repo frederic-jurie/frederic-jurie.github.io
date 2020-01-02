@@ -33,8 +33,9 @@ github_username:  frederic-jurie
 # Build settings
 #theme: jekyll-theme-minimal
 #theme: jekyll-theme-minimal
-#plugins:
-#  - jekyll-feed
+remote_theme: pages-themes/minimal
+plugins:
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
