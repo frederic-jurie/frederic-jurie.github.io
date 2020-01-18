@@ -29,3 +29,10 @@ Datasets.
 * [Database of Human Attributes (HAT)](https://jurie.users.greyc.fr/datasets/hat.html)		
 * [RECONSURVE's boat dataset](https://jurie.users.greyc.fr/datasets/reconsurve.html)
 * [VEDAI: Vehicle Detection in Aerial Imagery](https://downloads.greyc.fr/vedai/)
+
+
+```
+Former Ph.D. Students
+```
+
+[Valentin Vielzeuf](https://www.linkedin.com/in/valentin-vielzeuf-78500383), [Michel Moukari](https://www.linkedin.com/in/michel-moukari-79a738a6/),[Jean Ogier du Terrail](https://owkin.com/member/jean-ogier-du-terrail/), [Maxime Bucher](https://www.linkedin.com/in/maxime-bucher), [Praveen Kulkarni](https://www.linkedin.com/in/praveen-kulkarni-60b18018/), [Sovann En](https://www.linkedin.com/in/sovann-en-b47a8427), [Binod Bhattarai](https://www.linkedin.com/in/binod-bhattarai-phd-3a857a24), [Paul Martin](https://www.linkedin.com/in/luapmartin/), [Sébastien Razakarivony](https://www.linkedin.com/in/sebastien-razakarivony-93622980), [Cristina Garcia Cifuentes](http://am.is.tue.mpg.de/person/ccifuentes), [Winn Voravuthikunchai](https://www.linkedin.com/in/dr-winn-voravuthikunchai-05070163), [Alexis Mignon](https://www.linkedin.com/in/alexis-mignon-05789447), [Gaurav Sharma](https://www.linkedin.com/in/gaurav-sharma-b9b0b13/), [Josip Krapac](https://www.linkedin.com/in/josip-krapac-6906471/), [Diane Larlus](https://www.linkedin.com/in/diane-larlus-89aa685/), [Eric Nowak](https://www.linkedin.com/in/ericnowak1980/), [Hedi Harzallah](https://www.linkedin.com/in/hediharzallah/?originalSubdomain=tn), [Lucie Masson](https://www.linkedin.com/in/lucie-masson-1bb42110b/), [Florent Duculty](https://www.linkedin.com/in/florent-duculty-5b622881).
